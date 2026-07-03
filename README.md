@@ -27,7 +27,6 @@ Here are some ideas to get you started:
 
 📈 **my github stats**
 <br>
-
-![GithubStats](https://github-readme-stats.vercel.app/api?username=jongkooke&show_icons=true&theme=gotham)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=jongkooke)](https://solved.ac/jongkooke)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jongkooke&layout=compact&theme=dark)
+![jongkookE's top languages without numbers](https://github-stats-extended.vercel.app/api/top-langs?username=jongkookE&langs_count=4&hide_values=true&prog_bar_bg_color=fff)
+[![jongkookE's GitHub stats](https://github-stats-extended.vercel.app/api?username=jongkookE)](https://github.com/stats-organization/github-stats-extended)
